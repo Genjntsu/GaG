@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Genjntsu/GaG/refs/heads/main/Star-Spawner%20(D.U.P.E)"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Genjntsu/GaG/refs/heads/main/Star%20Spawner"))()
